@@ -1,0 +1,4 @@
+wordle.wordle
+musicbot
+shivposting.shivposting
+debtbot.debt
